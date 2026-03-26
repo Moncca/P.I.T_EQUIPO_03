@@ -1,6 +1,5 @@
 # Equipo 03 - Procesos de Innovación para la Ingeniería
-
-Carrera de Ingeniería Industrial
+## Carrera de Ingeniería Industrial
 Universidad Peruana Cayetano Heredia
 
 
