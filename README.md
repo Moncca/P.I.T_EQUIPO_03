@@ -21,7 +21,12 @@ ODS 09: Industria, innovación e infraestructura
 
  <img width="758" height="552" alt="image" src="https://github.com/user-attachments/assets/5de47bb1-a605-472a-bdc6-f15ed8d1958e" />
 
- 
+ Foto	Nombre	Rol	Intereses
+	Nombre 1	Líder del equipo	Innovación social, sostenibilidad
+	Nombre 2	Responsable de investigación	Gestión ambiental, desarrollo comunitario
+	Nombre 3	Diseñador/a	Diseño de prototipos, creatividad aplicada
+	Nombre 4	Encargado/a de documentación	Comunicación científica, redacción técnica
+	Nombre 5	Programador/a - Modelador/a	Programación, análisis de datos, simulación
 Nombre/Rol/Intereses 
 Yalef Gabriel Moncca Rodríguez / Programador y Modelador / Innovación, Optimización e Informática.
 
