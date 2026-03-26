@@ -14,7 +14,7 @@ ODS 8: Trabajo decente y crecimiento económico
 ODS 09: Industria, innovación e infraestructura
 
 # Fotografía del equipo
-![foto group](https://github.com/user-attachments/assets/1aa41483-13e4-4099-9cac-8dfdda87f8a6)
+![foto grupal 03](https://github.com/user-attachments/assets/1aa41483-13e4-4099-9cac-8dfdda87f8a6)
 
 
 Integrantes del Equipo
