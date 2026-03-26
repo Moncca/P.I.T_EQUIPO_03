@@ -18,7 +18,8 @@ ODS 09: Industria, innovación e infraestructura
 
 
 # Integrantes del Equipo
- 
+ <img width="758" height="552" alt="image" src="https://github.com/user-attachments/assets/5de47bb1-a605-472a-bdc6-f15ed8d1958e" />
+
  
 Nombre/Rol/Intereses 
 Yalef Gabriel Moncca Rodríguez / Programador y Modelador / Innovación, Optimización e Informática.
