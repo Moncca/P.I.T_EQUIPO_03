@@ -28,6 +28,7 @@ ODS 09: Industria, innovación e infraestructura
 | <img src="URL_DE_TU_IMAGEN_3.jpg" width="100" alt="Foto de Nombre 3"> | **Nombre 3** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | <img src="URL_DE_TU_IMAGEN_4.jpg" width="100" alt="Foto de Nombre 4"> | **Nombre 4** | Encargado/a de documentación | Comunicación científica, redacción técnica |
 | <img src="URL_DE_TU_IMAGEN_5.jpg" width="100" alt="Foto de Nombre 5"> | **Nombre 5** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+
 Nombre/Rol/Intereses 
 Yalef Gabriel Moncca Rodríguez / Programador y Modelador / Innovación, Optimización e Informática.
 
