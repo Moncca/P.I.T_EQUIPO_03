@@ -14,7 +14,8 @@ ODS 8: Trabajo decente y crecimiento económico
 ODS 09: Industria, innovación e infraestructura
 
 # Fotografía del equipo
-![fotografía del equipo 03]("C:\Users\WILLIAN\OneDrive - Universidad Peruana Cayetano Heredia\Imágenes\foto group.jpg")
+![foto group](https://github.com/user-attachments/assets/1aa41483-13e4-4099-9cac-8dfdda87f8a6)
+
 
 Integrantes del Equipo
  
