@@ -8,6 +8,13 @@ Somos el Equipo 03 del curso de Procesos de Innovación para la Ingeniería 2026
 Nuestro objetivo es convertir ideas extraordinarias en una realidad que genere valor en nuestra sociedad, bajo un proceso sistemático, estructurado y gestionable.
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**
+ODS 11: Ciudades y comunidades sostenibles
+ODS 12: Producción y consumo responsables
+ODS 8: Trabajo decente y crecimiento económico
+ODS 09: Industria, innovación e infraestructura
+
+# Fotografía del equipo
+![fotografía del equipo 03]("C:\Users\WILLIAN\OneDrive - Universidad Peruana Cayetano Heredia\Imágenes\foto group.jpg")
 
 Integrantes del Equipo
  
