@@ -30,5 +30,5 @@ Gloria Lucia Carrasco Ramos Diseñadora y Responsable de investigación / Diseñ
 Renzo Jair Cruz Vega / Encargado de documentacion y Gestión financiera estratégica / Marketing de crecimiento empresarial.
 
 
-Resumen Final
+# 📌Resumen Final
 Esta ficha de presentación resume de forma concisa quiénes somos, qué nos motiva y qué esperamos lograr al finalizar el curso.
