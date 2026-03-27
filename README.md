@@ -21,10 +21,10 @@ ODS 09: Industria, innovación e infraestructura
 
 | Foto | Nombre | Rol | Intereses |
 | :--- | :----- | :--- | :--------- |
-| <img src="URL_DE_TU_IMAGEN_1.jpg" width="100" alt="Willian""> | **Nombre 1** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="URL_DE_TU_IMAGEN_2.jpg" width="100" alt="Foto de Nombre 2"> | **Nombre 2** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="URL_DE_TU_IMAGEN_3.jpg" width="100" alt="Foto de Nombre 3"> | **Nombre 3** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="URL_DE_TU_IMAGEN_4.jpg" width="100" alt="Foto de Nombre 4"> | **Nombre 4** | Encargado/a de documentación | Comunicación científica, redacción técnica |
+| <img src="URL_DE_TU_IMAGEN_1.jpg" width="50" alt="Foto de Nombre 1"> | **Nombre 1** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="URL_DE_TU_IMAGEN_2.jpg" width="50" alt="Foto de Nombre 2"> | **Nombre 2** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="URL_DE_TU_IMAGEN_3.jpg" width="50" alt="Foto de Nombre 3"> | **Nombre 3** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img src="URL_DE_TU_IMAGEN_4.jpg" width="50" alt="Foto de Nombre 4"> | **Nombre 4** | Encargado/a de documentación | Comunicación científica, redacción técnica |
 
 
 Nombre/Rol/Intereses 
