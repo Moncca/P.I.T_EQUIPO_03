@@ -21,7 +21,7 @@ ODS 09: Industria, innovación e infraestructura
 
 | Foto | Nombre | Rol | Intereses |
 | :--- | :----- | :--- | :--------- |
-| <img src="https://github.com/user-attachments/assets/58e89ba9-e90d-477a-bbf3-c1af6a529624" width="70" alt="Foto de Nombre 2"> | **Nombre 1** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="https://github.com/user-attachments/assets/58e89ba9-e90d-477a-bbf3-c1af6a529624" width="70" alt="Foto de Nombre 2"> | **Willian** | Líder del equipo | Innovación social, sostenibilidad |
 | <img src="" width="70" alt="Foto de Nombre 2"> | **Nombre 2** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
 | <img src="URL_DE_TU_IMAGEN_3.jpg" width="70" alt="Foto de Nombre 3"> | **Nombre 3** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | <img src="URL_DE_TU_IMAGEN_4.jpg" width="70" alt="Foto de Nombre 4"> | **Nombre 4** | Encargado/a de documentación | Comunicación científica, redacción técnica |
