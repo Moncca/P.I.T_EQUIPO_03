@@ -20,15 +20,11 @@ ODS 09: Industria, innovación e infraestructura
 # Integrantes del Equipo
 
 | Foto | Nombre | Rol | Intereses |
-| :--- | :----- | :--- | :--------- |
-| <img src="https://github.com/user-attachments/assets/58e89ba9-e90d-477a-bbf3-c1af6a529624" width="70" alt="Foto de Nombre 2"> | **Willian** | Líder del equipo | Innovación social, sostenibilidad |![image2](https://github.com/user-attachments/assets/7d4cc4fa-167a-47c4-862c-a928b8d87b95)
-
-| <img src="" width="70" alt="Foto de Nombre 2"> | **Nombre 2** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="URL_DE_TU_IMAGEN_3.jpg" 
-th="70" alt="Foto de Nombre 3"> | **Gloria** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="URL_DE_TU_IMAGEN_4.jpg" width="20" alt="Foto de Nombre 4"> | **Nombre 4** | Encargado/a de documentación | Comunicación científica, redacción técnica |
-
-
+| :--- | :--- | :--- | :--- |
+| <img src="https://github.com/user-attachments/assets/58e89ba9-e90d-477a-bbf3-c1af6a529624" width="70"> | **Willian** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="https://github.com/user-attachments/assets/7d4cc4fa-167a-47c4-862c-a928b8d87b95" width="70"> | **Yalef** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="https://github.com/user-attachments/assets/ed27ccaa-0b45-4eb5-bb12-20a864274158" width="70"> | **Gloria** | Diseñadora | Diseño circular, Economía circular y Producción sostenible |
+| <img src="https://github.com/user-attachments/assets/449c5e80-88db-4cfa-8dda-363979a57581" width="70"> | **Renzo** | Encargado/a de documentación | Comunicación científica, redacción técnica |
 Nombre/Rol/Intereses 
 Yalef Gabriel Moncca Rodríguez / Programador y Modelador / Innovación, Optimización e Informática.
 
