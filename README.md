@@ -32,7 +32,7 @@ Yalef Gabriel Moncca Rodríguez / Programador y Modelador / Innovación, Optimiz
 
 Willian Chuyma Vargas / Lider del equipo y Responsable de investigación / Optimización de recursos, estrategias innovadoras y eficientes.
 
-Gloria Lucia Carrasco Ramos / Diseñadora / Diseño circular, Economía circular, Produccion sostenible y reducción de desperdicios. 
+Gloria Lucia Carrasco Ramos Diseñadora / Diseño circular, Economía circular, Produccion sostenible y reducción de desperdicios. 
 
 Renzo Jair Cruz Vega / Encargado de documentacion y Gestión financiera estratégica / Marketing de crecimiento empresarial.
 
